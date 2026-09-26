@@ -477,6 +477,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - **[PiloTY](https://github.com/yiwenlu66/PiloTY)** - AI pilot for PTY operations that enables agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
+- **[Playwright Trace Doctor](https://github.com/Pranav-Nexus/playwright-trace-doctor)** - Parse Playwright trace archives to triage test failures, timeouts, and correlated network errors with self-healing code suggestions
 - **[Project Manager](https://github.com/croffasia/mcp-project-manager)** - Hierarchical task management (ideas → epics → tasks) with CLI dashboard
 - **[Public APIs MCP](https://github.com/zazencodes/public-apis-mcp)** - Search for free APIs using MCP.
 - **[QuantConnect](https://github.com/QuantConnect/mcp-server)** – Dockerized Python MCP server that lets LLMs like Claude or OpenAI o3 Pro autonomously create projects, backtest strategies, and deploy live-trading workflows via the QuantConnect API.
